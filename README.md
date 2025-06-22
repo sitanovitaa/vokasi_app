@@ -38,11 +38,11 @@ Aplikasi mobile untuk mahasiswa Vokasi Universitas Pakuan (UNPAK) dengan sistem 
 ### Halaman Profil
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/profile_page.jng" width="280"> | <img src="screenshots/profile_page_dark.jpg" width="280"> |
+| <img src="screenshots/Profile_page.jpg" width="280"> | <img src="screenshots/profile_page_dark.jpg" width="280"> |
 
 ## 📸 Screenshot Implementasi Code
 ### Code Manajemen Tema
- <img src="screenshots/kode_theme.pngg" width="280"> 
+| <img src="screenshots/kode_theme.png" width="280"> |
 
 ### Code Login
- <img src="screenshots/kode_login.pngg" width="280"> 
+| <img src="screenshots/kode_login.png" width="280"> |
